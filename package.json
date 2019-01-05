@@ -9,7 +9,7 @@
     "lib"
   ],
   "scripts": {
-    "build": "@udock/build-tools rollup"
+    "build": "udock-build-tools rollup"
   },
   "dependencies": {
     "mockjs": "^1.0.1-beta3",
@@ -20,6 +20,6 @@
     "axios": " ^0.16.1"
   },
   "devDependencies": {
-    "@udock/build-tools": "^0.0.1"
+    "@udock/build-tools": "^0.0.2"
   }
 }
