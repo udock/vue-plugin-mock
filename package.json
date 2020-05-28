@@ -16,5 +16,8 @@
   "devDependencies": {
     "@udock/build-tools": "^0.1.0"
   },
+  "peerDependencies": {
+    "axios": "^0.19.2"
+  },
   "license": "MIT"
 }
